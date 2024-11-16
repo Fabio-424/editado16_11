@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818442865097",
+    "project_id": "formulario-uesb-teste",
+    "storage_bucket": "formulario-uesb-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818442865097:android:1f232a59d2ffb64aa78018",
+        "android_client_info": {
+          "package_name": "com.example.engenharia_projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVO3MiO9nckC5PckUEXYvQvmXip68uM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
